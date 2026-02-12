@@ -1,0 +1,537 @@
+"Knowledge Graph of Top U-22 Players in Europe’s Top Five Football Leagues
+
+A Neo4j-Based Data Graph for Talent Analysis and Scouting";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;NAME;;;PLAYER ID;;;League;;;Club;;;Age;;;Position;;;Country;;;preferred foot;;;Height;;;Market value;;;Migratory Background ;;;Properties ;;;;;;;;;;;;;;;;;
+1;;Fin Jeltsch;;;1;;;1;;;VfB Stuttgart;;;18;;;CB;;;GERMANY ;;;RIGHT;;;188;;;20M;;;GERMAN OROIGIN ;;;"
+Building from the back 
+Press resistance 
+Physical strength 
+Multi-directional press resistance 
+Off-ball defence awareness
+Tackle timing
+Angle interpretation 
+Pace control from the defence 
+Psychological composure 
+Tactical adaptability
+Anticipation and build-up style  ";;;;;;;;;;;;;;;;;
+2;;El Chadaille Bitshiabu;;;2;;;1;;;RB Leipzig;;;20;;;CB;;;FRANCE ;;;LEFT;;;1.96;;;15M;;;2ND GENERATION MIGRANT ;;;"Physical strength
+Long-passing ability
+Aerial domination
+Ball-playing centre-back
+Recovery pace
+Defensive duels
+Left-side build-up";;;;;;;;;;;;;;;;;
+3;;Konstantinos Koulierakis;;;3;;;1;;;VfL Wolfsburg;;;21;;;CB;;;GREECE;;;LEFT;;;1.88;;;25M;;;GREEK ORIGIN;;;"High pass-completion rate 
+Tactical-positioning 
+Ground-dules 
+Long-ball building 
+Defensive reading
+Physical presence ";;;;;;;;;;;;;;;;;
+4;;Chema Andrés;;;4;;;1;;;VFB Stuttgart ;;;20;;;CM;;;SPAIN ;;;RIGHT;;;1.90;;;10M;;;FRANCE ORIGIN;;;"Tactical intelligence 
+Vertical passes skills 
+physical presence 
+ball recovery 
+positional discipline 
+pre-receive decision-making 
+scanning anticipation 
+tempo-regulation dual-phase 
+error tolerance- under pressure 
+cold  and smart control style 
+build-up transition ";;;;;;;;;;;;;;;;;
+5;;Aleksandar Pavlovic;;;5;;;1;;;Bayern Munich;;;21;;;DM-CM;;;GERMANY ;;;RIGHT;;;1.88;;;55M;;;2ND GENERATION MIGRANT ;;;"Defensive capability
+Passing accuracy 
+High ball-recovery
+Long-passing ability 
+Decision-making under pressure 
+Vertical risk-taking
+Defensive scanning 
+Positional discipline 
+Tempo control ability ";;;;;;;;;;;;;;;;;
+6;;Tom Bischof;;;6;;;1;;;FC Bayern Munich;;;20;;;CM;;;GERMANY ;;;LEFT;;;1.76;;;30M;;;GERMAN OROIGIN ;;;"Versatility midfield roles
+Long-shot ability
+Chance creation
+Dribbling under pressure
+Potential growth
+Press resistance
+Progressive passing
+Ball retention
+Tactical awareness";;;;;;;;;;;;;;;;;
+7;;Antonio Nusa;;;7;;;1;;;RB Leipzig;;;20;;;LW;;;NORWAY;;;RIGHT;;;1.80;;;30M;;;2ND GENERATION MIGRANT ;;;"Explosive acceleration 
+One-one dribbling 
+Versatile wing and centre
+Technical flair-creativity 
+Goal scoring
+Potential market value growth  
+Wing penetration 
+Space vacating
+Deep progression 
+Multi-zone Ball reception capability ";;;;;;;;;;;;;;;;;
+8;;Lennart Karl ;;;8;;;1;;;FC Bayern Munich;;;18;;;RW;;;GERMANY ;;;LEFT;;;1.68;;;20M;;;GERMAN OROIGIN ;;;"Goal breakthrough rate 
+Dribbling and finishing 
+Movement between lines 
+High self-confidence
+Pressure handling in big games 
+Creative vision 
+High skilled 
+Exploiting blind spots 
+Pre-control movement 
+Dynamic body feints before touch 
+ Improvisational  creativity 
+Curved shots precision ";;;;;;;;;;;;;;;;;
+9;;Saïd El Mala;;;9;;;1;;;Cologne;;;19;;;LW;;;GERMANY ;;;RUGHT;;;1.87;;;18M;;;2ND G/ LEBANON ORIGIN ;;;"Explosive acceleration 
+Dribbling 
+Wing to cut inside variation 
+Finishing in small spaces 
+Bidirectional turning without losing speed 
+Non-standard angle finishing 
+Vertical penetration 
+Reaction speed 
+Forward-drive aggressiveness ";;;;;;;;;;;;;;;;;
+10;;Assan Ouédraogo;;;10;;;1;;;RB Leipzig;;;19;;;CM;;;GERMANY ;;;BOTH;;;1.91;;;10M;;;2ND G/ BURKINA FASO ORIGIN;;;"Physical frame 
+Strong
+Progressive ball carrying 
+Goal creation from midfield 
+Defensive and offensive transition intelligence 
+Versatile midfield roles 
+Hybrid midfielder 
+Space recognition 
+Off-ball tempo acceleration 
+Second wave penetration 
+360-degree scanning 
+Full-field pre-scanning 
+";;;;;;;;;;;;;;;;;
+11;;1 Lamine Yamal;;;11;;;2;;;Barcelona;;;18;;;RW;;;SPAIN ;;;LEFT;;;1.80;;;200M;;;2NDG/ MOROCCO ORIGIN;;;"tactical intelligence
+vertical passes skills
+physical presence
+ball recovery
+positional discipline
+pre-receive decision-making
+scanning anticipation
+tempo-regulation
+error tolerance under pressure
+cold and smart control style
+build-up transition
+tight-space control
+progressive dribbling
+non-linear playmaking
+ball orientation manipulation
+dynamic first touch
+half-space occupation
+counter-pressing efficiency
+decisive action composure
+late-box arrival";;;;;;;;;;;;;;;;;
+12;; Pau Cubarsí;;;12;;;2;;;Barcelona;;;18;;;CB;;;SPAIN ;;;RIGHT;;;1.82;;;80M;;;SPANISH ORIGIN;;;"tactical intelligence
+vertical passing skills
+physical presence
+ball recovery
+positional discipline
+pre-receive decision-making
+scanning anticipation
+tempo-regulation
+error tolerance under pressure
+cold and smart control style
+build-up transition
+anticipatory positioning
+defensive transition readiness
+ball orientation manipulation
+tight-space control
+third-man combination play
+line-breaking passing
+decisive action composure";;;;;;;;;;;;;;;;;
+13;;Arda Güler;;;13;;;2;;;Real Madrid;;;19;;;AM;;;TURKEY;;;LEFT;;;1.76;;;90M;;;TURKISH ORIGIN;;;"tactical intelligence
+vertical passing skills
+tight-space control
+pre-receive decision-making
+scanning anticipation
+tempo-regulation
+error tolerance under pressure
+cold and smart control style
+build-up transition
+non-linear playmaking
+ball orientation manipulation
+dynamic first touch
+zone-14 creativity
+third-man combination play
+progressive dribbling
+decisive action composure";;;;;;;;;;;;;;;;;
+14;;Pablo Barrios;;;14;;;2;;;Atlético Madrid;;;20;;;CM-AM;;;SPAIN ;;;RIGHT;;;1.80;;;60M;;;SPANISH ORIGIN;;;"tactical intelligence
+vertical passing skills
+positional discipline
+ball recovery
+pre-receive decision-making
+scanning anticipation
+tempo-regulation
+tight-space control
+progressive dribbling
+build-up transition
+third-man combination play
+zone-14 creativity
+dynamic first touch
+error tolerance under pressure
+counter-pressing efficiency";;;;;;;;;;;;;;;;;
+15;;Daniel Yáñez;;;15;;;2;;;Real Madrid;;;18;;;RW;;;SPAIN ;;;LEFT;;;1.77;;;5M;;;SPANISH ORIGIN;;;"Ball control
+One-vs-one dribbling
+Left-footed cutting inside
+Acceleration
+Chance creation
+Off-ball movement
+Technical flair";;;;;;;;;;;;;;;;;
+16;;Júnior Iñaki ;;;16;;;2;;;Athletic Club;;;19;;;CM;;;SPAIN ;;;RIGHT;;;1.78;;;10M;;;2NDG/ GHANIAN PARENTS;;;"tactical intelligence
+ball recovery
+vertical passing skills
+positional discipline
+pre-receive decision-making
+scanning anticipation
+tempo-regulation
+counter-pressing efficiency
+tight-space control
+dynamic first touch
+build-up transition
+defensive transition readiness
+decisive action composure";;;;;;;;;;;;;;;;;
+17;;Javi Guerra ;;;17;;;2;;;Valencia CF;;;21;;;CM;;;SPAIN ;;;RIGHT;;;1.85;;;25M;;;SPANISH ORIGIN;;;"vertical passing skills
+pre-receive decision-making
+scanning anticipation
+build-up transition
+ball recovery
+positional discipline
+tempo-regulation
+dynamic first touch
+progressive dribbling
+third-man combination play
+decisive action composure";;;;;;;;;;;;;;;;;
+18;;Diego Moreno ;;;18;;;2;;;CA Osasuna;;;20;;;RB;;;SPAIN ;;;RIGHT;;;1.82;;;9M;;;SPANISH ORIGIN;;;"build-up transition
+vertical progression
+positional discipline
+pre-receive decision-making
+scanning anticipation
+defensive transition readiness
+tempo-regulation
+counter-pressing efficiency
+tight-space control
+dynamic first touch
+decisive action composure
+";;;;;;;;;;;;;;;;;
+19;;Assane Diao ;;;19;;;2;;;Real Betis;;;19;;;LW;;;SPAIN ;;;RIGHT;;;1.85;;;18M;;;2NDG/ SENEGALESE PARENTS ;;;"progressive dribbling
+non-linear movement
+pre-receive decision-making
+scanning anticipation
+transition threat
+tight-space control
+dynamic first touch
+decisive action composure
+late-box arrival
+counter-pressing efficiency";;;;;;;;;;;;;;;;;
+20;;Johnny Cardoso ;;;20;;;2;;;Real Betis;;;21;;;CM-DM;;;USA-BRAZIL;;;RIGHT;;;1.85;;;30M;;;BRAZILIAN PARENTS ;;;"ball recovery
+vertical passing skills
+positional discipline
+pre-receive decision-making
+scanning anticipation
+build-up transition
+tempo-regulation
+defensive transition readiness
+counter-pressing efficiency
+dynamic first touch
+tight-space control";;;;;;;;;;;;;;;;;
+21;;Kenan Y?ld?z;;;21;;;3;;;Juventus;;;19;;;SS-AM;;;TURKEY;;;RIGHT;;;1.85;;;75M;;;BORN IN GERMANY;;;"pre-receive decision-making
+scanning anticipation
+non-linear playmaking
+progressive dribbling
+tight-space control
+dynamic first touch
+late-box arrival
+decisive action composure
+vertical passing skills
+build-up transition
+counter-pressing efficiency";;;;;;;;;;;;;;;;;
+22;;Sebastiano Esposito;;;22;;;3;;;Inter Milan;;;20;;;CF;;;ITALY;;;RIGHT;;;1.86;;;20M;;;ITALIAN ORIGIN;;;"physical presence
+box occupation
+pre-receive decision-making
+dynamic first touch
+tight-space finishing
+progressive dribbling
+non-linear movement
+decisive action composure
+counter-pressing efficiency
+build-up transition";;;;;;;;;;;;;;;;;
+23;;Giuseppe Pisilli;;;23;;;3;;;AS Roma;;;19;;;CM;;;ITALY;;;RIGHT;;;1.78;;;13M;;;ITALIAN ORIGIN;;;"intelligence
+ball recovery
+positional discipline
+vertical passing skills
+pre-receive decision-making
+scanning anticipation
+tight-space control
+build-up transition
+counter-pressing efficiency
+dynamic first touch";;;;;;;;;;;;;;;;;
+24;;Pietro Comuzzo;;;24;;;3;;;Fiorentina;;;19;;;CB;;;ITALY;;;LEFT;;;1.90;;;10M;;;ITALIAN ORIGIN;;;"positional discipline
+ball recovery
+vertical passing skills
+pre-receive decision-making
+scanning anticipation
+defensive transition readiness
+error tolerance under pressure
+ball orientation manipulation
+build-up transition";;;;;;;;;;;;;;;;;
+25;;Brooke Norton-Cuffy;;;25;;;3;;;Genoa ;;;20;;;RB-WB;;;ENGLAND;;;RIGHT;;;1.81;;;18M;;;2NDG/ GHANIAN PARENTS ;;;"vertical progression
+pre-receive decision-making
+scanning anticipation
+positional discipline
+defensive transition readiness
+counter-pressing efficiency
+dynamic first touch
+tight-space control
+build-up transition
+decisive action composure";;;;;;;;;;;;;;;;;
+26;;Nico Paz;;;26;;;3;;;Como;;;20;;;AM-RW;;;ARGENTINA-SPAIN;;;LEFT;;;1.86;;;55M;;;ARGENTINE PARENTS 2NDG;;;"tactical intelligence
+vertical passing skills
+physical presence
+ball recovery
+positional discipline
+pre-receive decision-making
+scanning anticipation
+tempo-regulation
+error tolerance under pressure
+cold and smart control style
+build-up transition
+tight-space control
+progressive dribbling
+non-linear playmaking
+ball orientation manipulation
+dynamic first touch
+half-space occupation
+counter-pressing efficiency
+decisive action composure
+late-box arrival";;;;;;;;;;;;;;;;;
+27;;Valentín Carboni;;;27;;;3;;;Genoa;;;19;;;AM-RW;;;ARGENTINA-ITALY;;;LEFT;;;1.85;;;22M;;;RELOCATE TO ITALY / M-BG;;;"tight-space control
+dynamic first touch
+non-linear playmaking
+progressive dribbling
+pre-receive decision-making
+scanning anticipation
+zone-14 creativity
+vertical passing skills
+build-up transition
+decisive action composure";;;;;;;;;;;;;;;;;
+28;;Jesús Rodríguez (J. Rodríguez);;;28;;;3;;;Como;;;19;;;CM;;;SPAIN ;;;RIGHT;;;1.80;;;12M;;;SPANISH ORIGIN;;;"vertical passing skills
+positional discipline
+pre-receive decision-making
+tight-space control
+tempo-regulation
+scanning anticipation
+third-man combination play
+progressive dribbling
+decisive action composposure";;;;;;;;;;;;;;;;;
+29;;Assane Diao ;;;29;;;3;;;Como;;;20;;;LW;;;SENEGAL;;;RIGHT;;;1.85;;;30M;;;SENEGALESE ORIGIN;;;"Explosive acceleration
+Direct attacking runs
+One-vs-one dribbling
+High-speed ball carrying
+Vertical penetration
+Off-ball movement
+Counter-attacking threat
+Physical balance
+Final-third intensity
+Wide-area effectiveness";;;;;;;;;;;;;;;;;
+30;;Tommaso Martinelli;;;30;;;3;;;Fiorentina;;;19;;;GK;;;ITALY;;;RIGHT;;;1.90;;;12M;;;ITALIAN ORIGIN;;;Q;;;;;;;;;;;;;;;;;
+31;;Ethan Nwaneri;;;31;;;4;;;Arsenal;;;18;;;AM-RW;;;ENGLAND;;;LEFT;;;1.75;;;40M;;;2ND/G Nigerian parents;;;"tactical intelligence
+vertical passing skills
+pre-receive decision-making
+scanning anticipation
+tight-space control
+progressive dribbling
+non-linear playmaking
+dynamic first touch
+build-up transition
+decisive action composure
+counter-pressing efficiency";;;;;;;;;;;;;;;;;
+32;;Max Dowman;;;32;;;4;;;Arsenal;;;16;;;SAM-RW;;;ENGLAND;;;LEFT;;;1.72;;;10M;;;ENGLISH ORIGIN;;;"progressive dribbling
+tight-space control
+pre-receive decision-making
+scanning anticipation
+dynamic first touch
+non-linear playmaking
+half-space occupation
+tempo-regulation
+decisive action composure
+build-up transition";;;;;;;;;;;;;;;;;
+33;;Adam Wharton;;;33;;;4;;;Crystal Palace;;;21;;;DM ;;;ENGLAND;;;LEFT;;;1.81;;;60M;;;ENGLISH ORIGIN;;;"ball recovery
+vertical passing skills
+tempo-regulation
+pre-receive decision-making
+scanning anticipation
+positional discipline
+build-up transition
+counter-pressing efficiency
+decisive action composure";;;;;;;;;;;;;;;;;
+34;;Leny Yoro;;;34;;;4;;;Manchester United;;;19;;;CB;;;FRANCE ;;;RIGHT;;;1.90;;;55M;;;2NDG/ IVORIAN PARENTS;;;"tactical intelligence
+ball recovery
+anticipatory positioning
+vertical passing skills
+pre-receive decision-making
+scanning anticipation
+defensive transition readiness
+error tolerance under pressure
+build-up transition
+ball orientation manipulation";;;;;;;;;;;;;;;;;
+35;;Carlos Baleba;;;35;;;4;;;Brighton ;;;21;;;DM ;;;CAMEROON;;;RIGHT;;;1.79;;;60M;;;2NDG/ CAMEROONIAN PARENTS;;;"physical presence
+ball recovery
+vertical progression
+positional discipline
+pre-receive decision-making
+scanning anticipation
+counter-pressing efficiency
+dynamic first touch
+build-up transition";;;;;;;;;;;;;;;;;
+36;;Myles Lewis-Skelly;;;36;;;4;;;Arsenal;;;19;;;LB-CM;;;ENGLAND;;;LEFT;;;1.79;;;40M;;;2NDG/ CARIBBEAN ;;;"tactical intelligence
+vertical progression
+pre-receive decision-making
+scanning anticipation
+positional discipline
+dynamic first touch
+defensive transition readiness
+build-up transition
+progressive dribbling
+decisive action composure";;;;;;;;;;;;;;;;;
+37;;Rayan Bencharki;;;37;;;4;;;Manchester city;;;21;;;RW-SS;;;FRANCE;;;LEFT;;;1.78;;;50M;;;2ND/G ALGERIAN PARENTS;;;"Ball control
+Close-space dribbling
+Creativity between the lines
+Quick decision-making
+Off-ball movement
+Agility
+Attacking versatility
+Press resistance
+Progressive carries
+Chance creation";;;;;;;;;;;;;;;;;
+38;;O’Reilly;;;38;;;4;;;Manchester city;;;19;;;LB-LW;;;ENGLAND;;;LEFT;;;1.76;;;40M;;;Migratory Background ;;;"Press resistance
+Progressive passing
+Ball retention
+Tactical awareness
+Off-ball positioning
+Tempo control
+Defensive contribution
+Spatial awareness
+Link-up play
+Game intelligence";;;;;;;;;;;;;;;;;
+39;;Rio Ngumoha;;;39;;;4;;;Liverbool;;;17;;;LW-AM;;;ENGLAND;;;RIGHT;;;1.70;;;15M;;;2ND/G MIGRATORY BG;;;"Explosive acceleration
+One-vs-one dribbling
+Close ball control
+Change of direction
+Off-ball movement
+Direct attacking threat
+Confidence in duels
+Progressive carries
+Creativity in final third
+High attacking intensity";;;;;;;;;;;;;;;;;
+40;;Estêvão Willian;;;40;;;4;;;Chelsea;;;18;;;RW;;;BRAZIL;;;LEFT;;;1.76;;;80M;;;BRAZILIAN PARENTS ;;;"Explosive burst pace
+Tight ball manipulation
+Elite 1v1 attacking ability
+Left-footed technical creativity
+Diagonal attacking runs inside
+Advanced chance creation
+Progressive ball carrying
+Sharp directional changes
+Composed final-third decisions
+High flair and attacking confidence";;;;;;;;;;;;;;;;;
+41;;Warren Zaïre-Emery;;;41;;;5;;;Paris Saint-Germain;;;19;;;CM-DM;;;FRANCE;;;RIGHT;;;1.78;;;50M;;;2ND/G IVORIAN DESCENT;;;"Press resistance
+Progressive passing
+Ball retention
+Tempo control
+Tactical maturity
+Defensive positioning
+Vertical ball progression
+Physical balance
+Game intelligence
+Leadership presence";;;;;;;;;;;;;;;;;
+42;;Bradley Barcola;;;42;;;5;;;Paris Saint-Germain;;;21;;;RW;;;FRANCE;;;RIGHT;;;1.85;;;70M;;;2ND G/ TOGOLESE DESCENT ;;;"Explosive acceleration
+Direct ball progression
+One-vs-one attacking threat
+High-speed dribbling
+Vertical off-ball runs
+Final-third penetration
+Chance creation from wide areas
+Composure in transition
+Stretching defensive lines
+Attacking intensity";;;;;;;;;;;;;;;;;
+43;;Kendry Páez;;;43;;;5;;;RC Strasbourg;;;18;;;AM;;;FRANCE;;;LEFT;;;1.65;;;15M;;;2ND G/ MIGRANT BG;;;"Close ball control
+Press resistance
+Progressive carries
+Chance creation
+Left-footed creativity
+Quick decision-making
+Change of pace
+Spatial awareness
+Final-third intelligence
+High technical ceiling";;;;;;;;;;;;;;;;;
+44;;Amara Diouf;;;44;;;5;;;FC Metz;;;17;;;LW-RW;;;SENEGAL;;;RIGHT;;;1.74;;;12M;;;SENEGALESE ORIGIN;;;"One-vs-one dribbling
+Close ball control
+Direct attacking play
+Progressive carries
+Change of pace
+Off-ball runs
+Confidence in duels
+Final-third penetration
+High attacking intensity";;;;;;;;;;;;;;;;;
+45;;Eliesse Ben Seghir;;;45;;;5;;;AS Monaco;;;20;;;AM-SS;;;FRAMCE-MOROCCO;;;RIGHT;;;1.78;;;28M;;;2ND G/ MOROCCAN DESCENT ;;;"Sharp first touch
+Spatial awareness
+Diagonal attacking runs
+Quick combination play
+Composure in tight spaces
+Ball retention under pressure
+Creative decision-making
+Half-space exploitation
+Low-center-of-gravity agility
+Unpredictable attacking patterns";;;;;;;;;;;;;;;;;
+46;;Malick Fofana;;;46;;;5;;;Olympique Lyonnais;;;21;;;RW;;;BELGIUM ;;;RIGHT;;;1.76;;;30M;;;2ND G/ GUINEAN DESCENT;;;"Explosive pace
+Direct ball progression
+One-vs-one attacking threat
+High-speed dribbling
+Vertical off-ball runs
+Progressive carries
+Transition efficiency
+Final-third penetration
+Wide isolation effectiveness
+Attacking intensity";;;;;;;;;;;;;;;;;
+47;;Lucas Perrin;;;47;;;5;;;Olympique Lyonnais;;;20;;;LB-WB;;;FRANCE;;;LEFT;;;1.80;;;12M;;;FRANCE ORIGIN;;;"Defensive positioning
+Aerial duels
+Physical robustness
+Tackle timing
+Reading of the game
+Clearance efficiency
+Defensive concentration
+Back-line coordination
+Marking discipline
+Composure under pressure";;;;;;;;;;;;;;;;;
+48;;Ayyoub Bouaddi;;;48;;;5;;;Lille OSC;;;18;;;CM-DM;;;FRANCE;;;RIGHT;;;1.74;;;30M;;;2ND G/ Moroccan descent;;;"Press resistance
+Progressive passing
+Ball retention
+Tempo control
+Spatial awareness
+Quick circulation
+Off-ball positioning
+Defensive contribution
+Game intelligence
+Tactical discipline";;;;;;;;;;;;;;;;;
+49;;Saïmon Bouabré;;;49;;;5;;;OGC Nice;;;18;;;CM-AM;;;FRANCE;;;RIGHT;;;1.78;;;300K;;;2ND G/Ivorian descent ;;;"Close ball control
+Creative dribbling
+Change of direction
+Progressive carries
+Press resistance
+Attacking awareness
+Quick decision-making
+Half-space creativity
+Off-ball movement
+High technical confidence";;;;;;;;;;;;;;;;;
+50;;Nhoa Sangui;;;50;;;5;;;cParis FC;;;19;;;LB;;;FRANCE;;;LEFT;;;1.78;;;6M;;;2ND G/Congolese descent ;;;"Defensive positioning
+Athletic recovery runs
+One-vs-one defending
+Tackle timing
+Wide-area coverage
+Crossing from deep
+Progressive runs from full-back
+Stamina and work rate
+Backline discipline
+Composure under pressure";;;;;;;;;;;;;;;;;
